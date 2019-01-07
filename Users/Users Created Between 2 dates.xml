@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2016020103"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Users Created Between 2 dates]]></name>
+<summary><![CDATA[<p>Users Created Between 2 dates<br></p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YTozOntzOjc6ImZpbHRlcnMiO2E6MTp7czo4OiJlbGVtZW50cyI7YToxOntpOjA7YTo1OntzOjI6ImlkIjtzOjE1OiI4N2pGVExyZE9JYXFKTG0iO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjA6e31zOjEwOiJwbHVnaW5uYW1lIjtzOjEyOiJzdGFydGVuZHRpbWUiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjI1OiJTdGFydCslMkYrRW5kK2RhdGUrZmlsdGVyIjtzOjc6InN1bW1hcnkiO3M6MjU6IlN0YXJ0KyUyRitFbmQrZGF0ZStmaWx0ZXIiO319fXM6OToiY3VzdG9tc3FsIjthOjE6e3M6NjoiY29uZmlnIjtPOjg6InN0ZENsYXNzIjo2OntzOjg6InF1ZXJ5c3FsIjtzOjI0NjoiU0VMRUNUK2lkJTJDK3VzZXJuYW1lJTJDK2ZpcnN0bmFtZSUyQytsYXN0bmFtZSUyQytlbWFpbCUyQytGUk9NX1VOSVhUSU1FJTI4dGltZWNyZWF0ZWQlMjkrYXMrdGltZWNyZWF0ZWQlMEQlMEFGUk9NK3ByZWZpeF91c2VyK0FTK3UlMEQlMEFXSEVSRSsrMSslMjUlMjVGSUxURVJfU1RBUlRUSU1FJTNBdS50aW1lY3JlYXRlZCUzQSUzRSUyNSUyNSslMjUlMjVGSUxURVJfRU5EVElNRSUzQXUudGltZWNyZWF0ZWQlM0ElM0MlMjUlMjUrIjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjEyOiJTYXZlK2NoYW5nZXMiO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fXM6MTE6InBlcm1pc3Npb25zIjthOjE6e3M6NjoiY29uZmlnIjtPOjg6InN0ZENsYXNzIjoxOntzOjEzOiJjb25kaXRpb25leHByIjtzOjA6IiI7fX19]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>
